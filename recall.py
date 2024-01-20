@@ -8,3 +8,4 @@ import beatrice
 Z = beatrice.electronicMail(name)
 #
 #Copyright ® 2024, munmeet § BAUJI SERVICES
+script = beatrice.geo(pstn)
