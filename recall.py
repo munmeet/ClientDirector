@@ -4,4 +4,5 @@ pstn = $3
 X = $0
 import time
 Y = time.mktime(X)
-Z = electronicMail(name)
+import beatrice
+Z = beatrice.electronicMail(name)
