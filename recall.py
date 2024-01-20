@@ -1,4 +1,5 @@
 name = $2
 address = $1
 pstn = $3
-time.mktime(X)
+X = $0
+Y = time.mktime(X)
